@@ -1,0 +1,5 @@
+imutils==0.5.4
+numpy==1.25.2
+opencv-contrib-python==4.5.5.62
+picamera==1.13
+pkg_resources==0.0.0
